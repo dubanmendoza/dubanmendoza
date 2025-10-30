@@ -32,3 +32,12 @@ Incluye ejemplos de uso de la librería **Newtonsoft.Json** y pruebas básicas d
 
 ---
 
+### ⚡ Actividad reciente
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
